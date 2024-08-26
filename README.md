@@ -1,2 +1,2 @@
-# git-hub
+# github
 git hub tutorial video
